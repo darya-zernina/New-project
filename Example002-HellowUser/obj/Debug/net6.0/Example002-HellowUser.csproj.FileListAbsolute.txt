@@ -1,0 +1,15 @@
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\bin\Debug\net6.0\Example002-HellowUser.exe
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\bin\Debug\net6.0\Example002-HellowUser.deps.json
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\bin\Debug\net6.0\Example002-HellowUser.runtimeconfig.json
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\bin\Debug\net6.0\Example002-HellowUser.dll
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\bin\Debug\net6.0\Example002-HellowUser.pdb
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\obj\Debug\net6.0\Example002-HellowUser.csproj.AssemblyReference.cache
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\obj\Debug\net6.0\Example002-HellowUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\obj\Debug\net6.0\Example002-HellowUser.AssemblyInfoInputs.cache
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\obj\Debug\net6.0\Example002-HellowUser.AssemblyInfo.cs
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\obj\Debug\net6.0\Example002-HellowUser.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\obj\Debug\net6.0\Example002-HellowUser.dll
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\obj\Debug\net6.0\refint\Example002-HellowUser.dll
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\obj\Debug\net6.0\Example002-HellowUser.pdb
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\obj\Debug\net6.0\Example002-HellowUser.genruntimeconfig.cache
+C:\Users\Даша\Desktop\New Project\Example002-HellowUser\obj\Debug\net6.0\ref\Example002-HellowUser.dll
